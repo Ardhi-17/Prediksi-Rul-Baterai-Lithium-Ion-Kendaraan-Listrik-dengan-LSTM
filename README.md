@@ -1,0 +1,1 @@
+# Prediksi-Rul-Baterai-Lithium-Ion-Kendaraan-Listrik-dengan-LSTM
